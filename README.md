@@ -23,6 +23,8 @@ Patronymic (Отчество)
 Проверить каждый параметр на наличие значения (не пустая строка)
 Собирать строку только из непустых параметров
 Добавлять пробелы между параметрами
+<img width="714" height="376" alt="image" src="https://github.com/user-attachments/assets/3474cac4-84b5-426e-bdaa-5fef66c64275" />
+
 
 ## Задача 2
 ### Текст задачи
@@ -43,6 +45,8 @@ Name (Имя) - строка
 Height (Рост) - целое число
 Реализовать конструктор, принимающий имя и рост
 Реализовать метод ToString(), возвращающий строку вида: "Имя, рост: XXX"
+<img width="440" height="168" alt="image" src="https://github.com/user-attachments/assets/470cefa3-603b-419c-a1b8-db8dbe28a964" />
+
 
 ## Задача 3
 ### Текст задачи
@@ -77,6 +81,8 @@ Department - ссылка на отдел
 Отдел IT без начальника
 Трех сотрудников в этом отделе
 Назначить одного из них начальником
+<img width="684" height="120" alt="image" src="https://github.com/user-attachments/assets/63c960b8-ed8d-4643-a35f-dc1b9eb1fd51" />
+
 
 ## Задача 4
 ### Текст задачи
@@ -93,6 +99,8 @@ Department - ссылка на отдел
 В EmployeeWithList добавить:
 В конструкторе автоматически добавлять сотрудника в отдел
 Метод GetDepartmentEmployees() для получения всех сотрудников отдела через ссылку на отдел
+<img width="712" height="279" alt="image" src="https://github.com/user-attachments/assets/3e2644a9-1b7e-4bea-aed0-8abea4701230" />
+
 
 ## Задача 5
 ### Текст задачи
@@ -116,6 +124,8 @@ Department - ссылка на отдел
 Всегда начинать с личного имени
 Добавлять фамилию (если есть)
 Добавлять отчество (если есть)
+<img width="455" height="140" alt="image" src="https://github.com/user-attachments/assets/af8bbc7d-35b3-4052-a240-059c95c1dd41" />
+
 
 ## Задача 6
 ### Текст задачи
@@ -139,3 +149,5 @@ Bullets - количество патронов
 Если патронов > 0: вывести "Бах!" и уменьшить количество на 1
 Иначе: вывести "Клац!"
 Реализовать метод ToString() для отображения состояния
+<img width="493" height="191" alt="image" src="https://github.com/user-attachments/assets/d424a5b5-78c6-4adb-a794-c9ae04aad02a" />
+
